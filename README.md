@@ -17,9 +17,7 @@ This is **a Python recreation** of the iconic screensaver using **PyQt6** — wi
 ## ⚠️ Known Limitation
 
 > **Only 3 bubble textures (colors) are available** — blue, purple, and red.  
-> Unlike the original which had more color variations, this remake uses these three base textures with dynamic hue shifting to add visual variety.
-
-*The dynamic hue cycling partially compensates for the limited palette, giving each bubble a gentle color drift over time.*
+> Unlike the original which had more color variations and dynamic hue shifting to add visual variety, this remake uses these three base textures.
 
 ## 🚀 Getting Started
 
@@ -49,7 +47,7 @@ SPEED = [3.5, 6.0]        # Min / max speed
 ```
 ## 📁 Assets
 
-Place your bubble textures (PNG with transparency) in the same folder as the script. Default names:
+If you didn't use Git, don't forget to include the textures:
 
 - `bubble-blue.png`
 - `bubble-purple.png`
