@@ -12,7 +12,6 @@ This is **a Python recreation** of the iconic screensaver using **PyQt6** — wi
 - 💥 Bubble collision detection with momentum exchange
 - 🖥️ Full‑screen overlay, transparent for input (doesn't interfere with your work)
 - ⚙️ Adjustable settings: max bubbles, spawn interval, size, speed
-- 🎨 Dynamic hue cycling — bubbles subtly change color over time
 
 ## ⚠️ Known Limitation
 
